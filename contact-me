@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Contact me</title>
-    <link rel="stylesheet" href="css/styles.css">
-  </head>
-  <body>
-    <h2>My contact details</h2>
-    <h3>phone number </h3>
-    <h3>(514)-453-6567</h3>
-     <hr>
-    <form action="mailto:waytblue20@gmail.com" method="post"enctype="text/plain">
-      <label>your Name:</label>
-      <input type="text" name="yourName" value=""><br>
-      <label>your Email:</label>
-      <input type="email" name="yourEmail" value=""><br>
-      <label>your message:</label><br>
-      <textarea name="yourMessage" rows="10" cols="30"></textarea><br>
-      <input class="btm" type="submit" name="SUBMIT">
-    </form>
-  </body>
-</html>
+#va
+#te
+#faire
+#enculer
+#toi
+#et
+#tes
+#amis
+
+
+
+Ta vraiment cru que tallait recevoire de largent t bete
+
+<html> </html>
